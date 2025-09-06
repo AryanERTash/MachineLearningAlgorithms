@@ -1,0 +1,66 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Python packaging
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+var/
+wheels/
+*.manifest
+*.spec
+
+# Logs
+*.log
+
+# Data & outputs (often large)
+*.csv
+*.tsv
+*.data
+*.dat
+*.npy
+*.npz
+*.pkl
+*.h5
+*.hdf5
+*.joblib
+*.parquet
+*.feather
+
+# Trained models
+*.pth
+*.pt
+*.ckpt
+*.pb
+
+# Images / plots / temp
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.svg
+*.pdf
+
+# IDE settings
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
