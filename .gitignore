@@ -30,7 +30,7 @@ wheels/
 *.log
 
 # Data & outputs (often large)
-*.csv
+
 *.tsv
 *.data
 *.dat
